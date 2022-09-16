@@ -2,7 +2,7 @@
  * dc_motor.c
  *
  *  Created on: Feb 20, 2022
- *      Author: pc
+ *      Author: Omar Abdel Moniem
  */
 
 
