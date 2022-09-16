@@ -2,7 +2,7 @@
  * controller.c
  *
  *  Created on: Feb 21, 2022
- *      Author: pc
+ *      Author: Omar Abdel Moniem
  */
 
 #include "dc_motor.h"
